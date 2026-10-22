@@ -36,4 +36,4 @@ python structure_to_dictionary.py
 ## Author
 Deepak kumawat
 
-GitHub: [ArnavB3200](https://github.com/ArnavB3200)
+
